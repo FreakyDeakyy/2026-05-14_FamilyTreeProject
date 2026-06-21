@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|c:\\users\\ftown\\onedrive - champlain regional college\\desktop\\class\\personal\\2026-05-14_familytreeproject\\webscraper\\familytreeparser\\familytreeparser\\outputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|solutionrelative:familytreeparser\\outputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|c:\\users\\ftown\\onedrive - champlain regional college\\desktop\\class\\personal\\2026-05-14_familytreeproject\\webscraper\\familytreeparser\\familytreeparser\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|solutionrelative:familytreeparser\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|c:\\users\\ftown\\onedrive - champlain regional college\\desktop\\class\\personal\\2026-05-14_familytreeproject\\webscraper\\familytreeparser\\familytreeparser\\unformattedcsvcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8626160-B8B5-9271-E432-4CE0450C4A26}|FamilyTreeParser\\FamilyTreeParser.csproj|solutionrelative:familytreeparser\\unformattedcsvcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnFormattedCSVCreator.cs",
+              "DocumentMoniker": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\UnFormattedCSVCreator.cs",
+              "RelativeDocumentMoniker": "FamilyTreeParser\\UnFormattedCSVCreator.cs",
+              "ToolTip": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\UnFormattedCSVCreator.cs",
+              "RelativeToolTip": "FamilyTreeParser\\UnFormattedCSVCreator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:55:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutputParser.cs",
+              "DocumentMoniker": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\OutputParser.cs",
+              "RelativeDocumentMoniker": "FamilyTreeParser\\OutputParser.cs",
+              "ToolTip": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\OutputParser.cs",
+              "RelativeToolTip": "FamilyTreeParser\\OutputParser.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:09:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLParser.cs",
+              "DocumentMoniker": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\HTMLParser.cs",
+              "RelativeDocumentMoniker": "FamilyTreeParser\\HTMLParser.cs",
+              "ToolTip": "C:\\Users\\ftown\\OneDrive - Champlain Regional College\\Desktop\\CLASS\\PERSONAL\\2026-05-14_FamilyTreeProject\\webscraper\\FamilyTreeParser\\FamilyTreeParser\\HTMLParser.cs",
+              "RelativeToolTip": "FamilyTreeParser\\HTMLParser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:33:27.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

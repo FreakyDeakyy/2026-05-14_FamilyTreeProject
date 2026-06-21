@@ -1,0 +1,14 @@
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\bin\Debug\net10.0\FamilyTreeParser.exe
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\bin\Debug\net10.0\FamilyTreeParser.deps.json
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\bin\Debug\net10.0\FamilyTreeParser.runtimeconfig.json
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\bin\Debug\net10.0\FamilyTreeParser.dll
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\bin\Debug\net10.0\FamilyTreeParser.pdb
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.AssemblyInfoInputs.cache
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.AssemblyInfo.cs
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.csproj.CoreCompileInputs.cache
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.dll
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\refint\FamilyTreeParser.dll
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.pdb
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\FamilyTreeParser.genruntimeconfig.cache
+C:\Users\ftown\OneDrive - Champlain Regional College\Desktop\CLASS\PERSONAL\2026-05-14_FamilyTreeProject\webscraper\FamilyTreeParser\FamilyTreeParser\obj\Debug\net10.0\ref\FamilyTreeParser.dll
